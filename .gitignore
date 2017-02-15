@@ -1,12 +1,1 @@
-*.jar
-*.war
-/target/
-*.class
-.classpath
-.settings
-.project
-/build/
-/bin/
-/.idea/
-*.iml
 
